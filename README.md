@@ -1,2 +1,2 @@
 # SRE_Study
-[Wiki](https://obsproject.com/ko/welcome)를 봐주세요
+[Wiki](https://github.com/jellygit/SRE_Study/wiki)를 봐주세요
